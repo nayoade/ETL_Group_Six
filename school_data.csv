@@ -1,0 +1,312 @@
+,1,2,3,4,5
+0,Princeton University,47140,#1,Princeton,NJ
+1,Harvard University,48949,#2,Cambridge,MA
+2,University of Chicago,54825,#3,Chicago,IL
+3,Yale University,51400,#3,New Haven,CT
+4,Columbia University,57208,#5,New York,NY
+5,Massachusetts Institute of Technology,49892,#5,Cambridge,MA
+6,Stanford University,49617,#5,Stanford,CA
+7,University of Pennsylvania,53534,#8,Philadelphia,PA
+8,Duke University,53744,#9,Durham,NC
+9,California Institute of Technology,49908,#10,Pasadena,CA
+10,Dartmouth College,52950,#11,Hanover,NH
+11,Johns Hopkins University,52170,#11,Baltimore,MD
+12,Northwestern University,52678,#11,Evanston,IL
+13,Brown University,53419,#14,Providence,RI
+14,Cornell University,52853,#14,Ithaca,NY
+15,Rice University,45608,#14,Houston,TX
+16,Vanderbilt University,47664,#14,Nashville,TN
+17,University of Notre Dame,51505,#18,Notre Dame,IN
+18,Washington University in St. Louis,51533,#18,St. Louis,MO
+19,Georgetown University,52300,#20,Washington,DC
+20,Emory University,49392,#21,Atlanta,GA
+21,University of California--Berkeley,42112,#21,Berkeley,CA
+22,University of California--Los Angeles,41270,#21,Los Angeles,CA
+23,University of Southern California,54259,#21,Los Angeles,CA
+24,Carnegie Mellon University,53910,#25,Pittsburgh,PA
+25,University of Virginia,46975,#25,Charlottesville,VA
+26,Wake Forest University,51400,#27,Winston-Salem,NC
+27,University of Michigan--Ann Arbor,47476,#28,Ann Arbor,MI
+28,Tufts University,54318,#29,Medford,MA
+29,New York University,50464,#30,New York,NY
+30,University of North Carolina--Chapel Hill,34588,#30,Chapel Hill,NC
+31,Boston College,53346,#32,Chestnut Hill,MA
+32,College of William and Mary,43099,#32,Williamsburg,VA
+33,Brandeis University,53582,#34,Waltham,MA
+34,Georgia Institute of Technology,33014,#34,Atlanta,GA
+35,University of Rochester,52020,#34,Rochester,NY
+36,Boston University,52082,#37,Boston,MA
+37,Case Western Reserve University,47500,#37,Cleveland,OH
+38,University of California--Santa Barbara,42423,#37,Santa Barbara,CA
+39,Northeastern University,49497,#40,Boston,MA
+40,Tulane University,52960,#40,New Orleans,LA
+41,Rensselaer Polytechnic Institute,52305,#42,Troy,NY
+42,University of California--Irvine,43530,#42,Irvine,CA
+43,University of California--San Diego,44197,#42,La Jolla,CA
+44,University of Florida,28658,#42,Gainesville,FL
+45,Lehigh University,50740,#46,Bethlehem,PA
+46,Pepperdine University,51992,#46,Malibu,CA
+47,University of California--Davis,42396,#46,Davis,CA
+48,University of Miami,48484,#46,Coral Gables,FL
+49,University of Wisconsin--Madison,34782,#46,Madison,WI
+50,Villanova University,51434,#46,Villanova,PA
+51,Pennsylvania State University--University Park,33664,#52,University Park,PA
+52,University of Illinois--Urbana-Champaign,31988,#52,Champaign,IL
+53,Ohio State University--Columbus,29659,#54,Columbus,OH
+54,University of Georgia,30392,#54,Athens,GA
+55,George Washington University,53518,#56,Washington,DC
+56,Purdue University--West Lafayette,28804,#56,West Lafayette,IN
+57,University of Connecticut,36948,#56,Storrs,CT
+58,University of Texas--Austin,35766,#56,Austin,TX
+59,University of Washington,35538,#56,Seattle,WA
+60,Brigham Young University--Provo,5460,#61,Provo,UT
+61,Fordham University,50601,#61,New York,NY
+62,Southern Methodist University,52498,#61,Dallas,TX
+63,Syracuse University,46755,#61,Syracuse,NY
+64,University of Maryland--College Park,33606,#61,College Park,MD
+65,Worcester Polytechnic Institute,48628,#61,Worcester,MA
+66,Clemson University,35654,#67,Clemson,SC
+67,University of Pittsburgh,30642,#68,Pittsburgh,PA
+68,American University,46615,#69,Washington,DC
+69,Rutgers University--New Brunswick,30023,#69,Piscataway,NJ
+70,Stevens Institute of Technology,50554,#69,Hoboken,NJ
+71,Texas A&M University--College Station,30208,#69,College Station,TX
+72,University of Minnesota--Twin Cities,26603,#69,Minneapolis,MN
+73,Virginia Tech,29371,#69,Blacksburg,VA
+74,Baylor University,43790,#75,Waco,TX
+75,Colorado School of Mines,37436,#75,Golden,CO
+76,University of Massachusetts--Amherst,33662,#75,Amherst,MA
+77,Miami University--Oxford,32768,#78,Oxford,OH
+78,Texas Christian University,44760,#78,Fort Worth,TX
+79,University of Iowa,28813,#78,Iowa City,IA
+80,Clark University,44400,#81,Worcester,MA
+81,Florida State University,21673,#81,Tallahassee,FL
+82,Michigan State University,39405,#81,East Lansing,MI
+83,North Carolina State University--Raleigh,27406,#81,Raleigh,NC
+84,University of California--Santa Cruz,42042,#81,Santa Cruz,CA
+85,University of Delaware,32250,#81,Newark,DE
+86,Binghamton University--SUNY,24403,#87,Binghamton,NY
+87,University of Denver,48669,#87,Denver,CO
+88,University of Tulsa,39502,#87,Tulsa,OK
+89,Indiana University--Bloomington,34845,#90,Bloomington,IN
+90,Marquette University,39900,#90,Milwaukee,WI
+91,University of Colorado--Boulder,35079,#90,Boulder,CO
+92,University of San Diego,47708,#90,San Diego,CA
+93,Drexel University,52002,#94,Philadelphia,PA
+94,Saint Louis University,42166,#94,St. Louis,MO
+95,Yeshiva University,42000,#94,New York,NY
+96,Rochester Institute of Technology,40068,#97,Rochester,NY
+97,Stony Brook University--SUNY,26297,#97,Stony Brook,NY
+98,SUNY College of Environmental Science and Forestry,18090,#97,Syracuse,NY
+99,University at Buffalo--SUNY,26270,#97,Buffalo,NY
+100,University of Oklahoma,24443,#97,Norman,OK
+101,University of Vermont,41356,#97,Burlington,VT
+102,Auburn University,29640,#103,Auburn,AL
+103,Illinois Institute of Technology,45864,#103,Chicago,IL
+104,Loyola University Chicago,42828,#103,Chicago,IL
+105,University of New Hampshire,32637,#103,Durham,NH
+106,University of Oregon,34611,#103,Eugene,OR
+107,University of South Carolina,32362,#103,Columbia,SC
+108,University of Tennessee,31160,#103,Knoxville,TN
+109,Howard University,25697,#110,Washington,DC
+110,University of Alabama,28100,#110,Tuscaloosa,AL
+111,University of San Francisco,46250,#110,San Francisco,CA
+112,University of the Pacific,46346,#110,Stockton,CA
+113,University of Utah,26408,#110,Salt Lake City,UT
+114,Arizona State University--Tempe,27372,#115,Tempe,AZ
+115,Iowa State University,22256,#115,Ames,IA
+116,Temple University,27266,#115,Philadelphia,PA
+117,University of Kansas,26592,#115,Lawrence,KS
+118,University of St. Thomas,41133,#115,St. Paul,MN
+119,The Catholic University of America,44060,#120,Washington,DC
+120,DePaul University,39010,#120,Chicago,IL
+121,Duquesne University,36394,#120,Pittsburgh,PA
+122,University of Missouri,26506,#120,Columbia,MO
+123,Clarkson University,47950,#124,Potsdam,NY
+124,Colorado State University,29140,#124,Fort Collins,CO
+125,Michigan Technological University,32318,#124,Houghton,MI
+126,Seton Hall University,40588,#124,South Orange,NJ
+127,University of Arizona,32449,#124,Tucson,AZ
+128,University of California--Riverside,41931,#124,Riverside,CA
+129,University of Dayton,41750,#124,Dayton,OH
+130,University of Nebraska--Lincoln,23256,#124,Lincoln,NE
+131,Hofstra University,43960,#132,Hempstead,NY
+132,Louisiana State University--Baton Rouge,28051,#133,Baton Rouge,LA
+133,Mercer University,36000,#133,Macon,GA
+134,The New School,47330,#133,New York,NY
+135,Rutgers University--Newark,29480,#133,Newark,NJ
+136,University of Arkansas,24308,#133,Fayetteville,AR
+137,University of Cincinnati,26334,#133,Cincinnati,OH
+138,University of Kentucky,28046,#133,Lexington,KY
+139,George Mason University,34370,#140,Fairfax,VA
+140,New Jersey Institute of Technology,31034,#140,Newark,NJ
+141,San Diego State University,19340,#140,San Diego,CA
+142,University of South Florida,17324,#140,Tampa,FL
+143,Washington State University,25817,#140,Pullman,WA
+144,Kansas State University,24775,#145,Manhattan,KS
+145,Oregon State University,29457,#145,Corvallis,OR
+146,St. John Fisher College,33120,#145,Rochester,NY
+147,University of Illinois--Chicago,27672,#145,Chicago,IL
+148,University of Mississippi,23554,#145,University,MS
+149,University of Texas--Dallas,33654,#145,Richardson,TX
+150,Adelphi University,37170,#151,Garden City,NY
+151,Florida Institute of Technology,41240,#151,Melbourne,FL
+152,Ohio University,21360,#151,Athens,OH
+153,Seattle Pacific University,40893,#151,Seattle,WA
+154,University at Albany--SUNY,24358,#151,Albany,NY
+155,Oklahoma State University,23776,#156,Stillwater,OK
+156,University of Massachusetts--Lowell,31865,#156,Lowell,MA
+157,University of Rhode Island,28874,#156,Kingston,RI
+158,Biola University,38448,#159,La Mirada,CA
+159,Illinois State University,25168,#159,Normal,IL
+160,University of Alabama--Birmingham,23790,#159,Birmingham,AL
+161,University of Hawaii--Manoa,33764,#159,Honolulu,HI
+162,University of La Verne,41450,#159,La Verne,CA
+163,University of Maryland--Baltimore County,25654,#159,Baltimore,MD
+164,Immaculata University,27350,#165,Immaculata,PA
+165,Maryville University of St. Louis,28470,#165,St Louis,MO
+166,Missouri University of Science & Technology,27701,#165,Rolla,MO
+167,St. John's University,40790,#165,Queens,NY
+168,University of California--Merced,41612,#165,Merced,CA
+169,University of Louisville,26286,#165,Louisville,KY
+170,Mississippi State University,22358,#171,Mississippi State,MS
+171,Rowan University,21378,#171,Glassboro,NJ
+172,University of Central Florida,22467,#171,Orlando,FL
+173,University of Idaho,23812,#171,Moscow,ID
+174,Virginia Commonwealth University,32942,#171,Richmond,VA
+175,Kent State University,18376,#176,Kent,OH
+176,Robert Morris University,29420,#176,Moon Township,PA
+177,Texas Tech University,23011,#176,Lubbock,TX
+178,Union University,31580,#176,Jackson,TN
+179,University of Hartford,38910,#176,West Hartford,CT
+180,Edgewood College,28500,#181,Madison,WI
+181,Lesley University,26550,#181,Cambridge,MA
+182,Lipscomb University,30932,#181,Nashville,TN
+183,Suffolk University,37270,#181,Boston,MA
+184,University of Maine,30282,#181,Orono,ME
+185,University of Wyoming,16827,#181,Laramie,WY
+186,Azusa Pacific University,36120,#187,Azusa,CA
+187,Ball State University,25938,#187,Muncie,IN
+188,Montclair State University,20566,#187,Montclair,NJ
+189,Pace University,44036,#187,New York,NY
+190,West Virginia University,23616,#187,Morgantown,WV
+191,Andrews University,28436,#192,Berrien Springs,MI
+192,Indiana University-Purdue University--Indianapolis,29806,#192,Indianapolis,IN
+193,University of Houston,27337,#192,Houston,TX
+194,University of New Mexico,22412,#192,Albuquerque,NM
+195,University of North Dakota,21462,#192,Grand Forks,ND
+196,Widener University,44166,#192,Chester,PA
+197,New Mexico State University,22701,#198,Las Cruces,NM
+198,North Dakota State University,20571,#198,Fargo,ND
+199,Nova Southeastern University,29940,#198,Ft. Lauderdale,FL
+200,University of North Carolina--Charlotte,20268,#198,Charlotte,NC
+201,Bowling Green State University,18593,#202,Bowling Green,OH
+202,California State University--Fullerton,17460,#202,Fullerton,CA
+203,Dallas Baptist University,27480,#202,Dallas,TX
+204,University of Massachusetts--Boston,32985,#202,Boston,MA
+205,University of Nevada--Reno,21787,#202,Reno,NV
+206,Central Michigan University,23670,#207,Mount Pleasant,MI
+207,East Carolina University,23420,#207,Greenville,NC
+208,Florida A&M University,17725,#207,Tallahassee,FL
+209,Montana State University,23042,#207,Bozeman,MT
+210,University of Alaska--Fairbanks,23534,#207,Fairbanks,AK
+211,University of Colorado--Denver,31209,#207,Denver,CO
+212,University of Massachusetts--Dartmouth,28285,#207,North Dartmouth,MA
+213,University of Montana,24943,#207,Missoula,MT
+214,Western Michigan University,14699,#207,Kalamazoo,MI
+215,Florida International University,18956,#216,Miami,FL
+216,Louisiana Tech University,18438,#216,Ruston,LA
+217,South Dakota State University,11403,#216,Brookings,SD
+218,Southern Illinois University--Carbondale,13936,#216,Carbondale,IL
+219,University of Alabama--Huntsville,21480,#216,Huntsville,AL
+220,University of Missouri--Kansas City,25999,#216,Kansas City,MO
+221,Utah State University,20726,#216,Logan,UT
+222,Ashland University,20700,#223,Ashland,OH
+223,Benedictine University,33900,#223,Lisle,IL
+224,California State University--Fresno,17929,#223,Fresno,CA
+225,Gardner-Webb University,30740,#223,Boiling Springs,NC
+226,Georgia State University,29432,#223,Atlanta,GA
+227,Shenandoah University,31920,#223,Winchester,VA
+228,University of South Dakota,11688,#223,Vermillion,SD
+229,Wayne State University,28590,#223,Detroit,MI
+230,American International College,33140,#231-#300,Springfield,MA
+231,Augusta University,23606,#231-#300,Augusta,GA
+232,Barry University,29700,#231-#300,Miami Shores,FL
+233,Boise State University,22642,#231-#300,Boise,ID
+234,Cardinal Stritch University,28844,#231-#300,Milwaukee,WI
+235,Clark Atlanta University,23082,#231-#300,Atlanta,GA
+236,Cleveland State University,13848,#231-#300,Cleveland,OH
+237,Eastern Michigan University,11530,#231-#300,Ypsilanti,MI
+238,East Tennessee State University,26463,#231-#300,Johnson City,TN
+239,Florida Atlantic University,21595,#231-#300,Boca Raton,FL
+240,Georgia Southern University,18692,#231-#300,Statesboro,GA
+241,Grand Canyon University,17050,#231-#300,Phoenix,AZ
+242,Indiana State University,19454,#231-#300,Terre Haute,IN
+243,Indiana University of Pennsylvania,15882,#231-#300,Indiana,PA
+244,Jackson State University,17614,#231-#300,Jackson,MS
+245,Kennesaw State University,21158,#231-#300,Kennesaw,GA
+246,Lamar University,22561,#231-#300,Beaumont,TX
+247,Liberty University,24304,#231-#300,Lynchburg,VA
+248,Lindenwood University,16960,#231-#300,St. Charles,MO
+249,Middle Tennessee State University,27578,#231-#300,Murfreesboro,TN
+250,Morgan State University,17833,#231-#300,Baltimore,MD
+251,National Louis University,10380,#231-#300,Chicago,IL
+252,North Carolina A&T State University,19416,#231-#300,Greensboro,NC
+253,Northern Arizona University,24841,#231-#300,Flagstaff,AZ
+254,Northern Illinois University,23817,#231-#300,DeKalb,IL
+255,Oakland University,24735,#231-#300,Rochester,MI
+256,Old Dominion University,28200,#231-#300,Norfolk,VA
+257,Portland State University,21180,#231-#300,Portland,OR
+258,Prairie View A&M University,10059,#231-#300,Prairie View,TX
+259,Regent University,17450,#231-#300,Virginia Beach,VA
+260,Sam Houston State University,22340,#231-#300,Huntsville,TX
+261,San Francisco State University,19134,#231-#300,San Francisco,CA
+262,Spalding University,24388,#231-#300,Louisville,KY
+263,Tennessee State University,20178,#231-#300,Nashville,TN
+264,Tennessee Technological University,26190,#231-#300,Cookeville,TN
+265,Texas A&M University--Commerce,20884,#231-#300,Commerce,TX
+266,Texas A&M University--Corpus Christi,26061,#231-#300,Corpus Christi,TX
+267,Texas A&M University--Kingsville,20912,#231-#300,Kingsville,TX
+268,Texas Southern University,21240,#231-#300,Houston,TX
+269,Texas State University,23071,#231-#300,San Marcos,TX
+270,Texas Woman's University,21816,#231-#300,Denton,TX
+271,Trevecca Nazarene University,25100,#231-#300,Nashville,TN
+272,Trinity International University,30750,#231-#300,Deerfield,IL
+273,University of Akron,21863,#231-#300,Akron,OH
+274,University of Arkansas--Little Rock,19797,#231-#300,Little Rock,AR
+275,University of Louisiana--Lafayette,23074,#231-#300,Lafayette,LA
+276,University of Louisiana--Monroe,20381,#231-#300,Monroe,LA
+277,University of Maryland--Eastern Shore,18048,#231-#300,Princess Anne,MD
+278,University of Memphis,21413,#231-#300,Memphis,TN
+279,University of Missouri--St. Louis,27327,#231-#300,St. Louis,MO
+280,University of Nebraska--Omaha,22035,#231-#300,Omaha,NE
+281,University of Nevada--Las Vegas,21498,#231-#300,Las Vegas,NV
+282,University of New Orleans,13530,#231-#300,New Orleans,LA
+283,University of North Carolina--Greensboro,22410,#231-#300,Greensboro,NC
+284,University of Northern Colorado,20474,#231-#300,Greeley,CO
+285,University of North Texas,23716,#231-#300,Denton,TX
+286,University of South Alabama,19586,#231-#300,Mobile,AL
+287,University of Southern Mississippi,9854,#231-#300,Hattiesburg,MS
+288,University of Texas--Arlington,25152,#231-#300,Arlington,TX
+289,University of Texas--El Paso,21396,#231-#300,El Paso,TX
+290,University of Texas--Rio Grande Valley,17230,#231-#300,Edinburg,TX
+291,University of Texas--San Antonio,23379,#231-#300,San Antonio,TX
+292,University of the Cumberlands,23000,#231-#300,Williamsburg,KY
+293,University of Toledo,18578,#231-#300,Toledo,OH
+294,University of West Florida,18628,#231-#300,Pensacola,FL
+295,University of West Georgia,20406,#231-#300,Carrollton,GA
+296,University of Wisconsin--Milwaukee,19851,#231-#300,Milwaukee,WI
+297,Valdosta State University,17196,#231-#300,Valdosta,GA
+298,Wichita State University,17270,#231-#300,Wichita,KS
+299,Wright State University,17350,#231-#300,Dayton,OH
+300,Alliant International University,17510,Unranked,San Diego,CA
+301,Argosy University,13152,Unranked,Orange,CA
+302,California Institute of Integral Studies,28467,Unranked,San Francisco,CA
+303,Capella University,13998,Unranked,Minneapolis,MN
+304,Idaho State University,21023,Unranked,Pocatello,ID
+305,Northcentral University,10368,Unranked,San Diego,AZ
+306,Trident University International,9000,Unranked,Cypress,CA
+307,Union Institute and University,12416,Unranked,Cincinnati,OH
+308,University of Phoenix,9690,Unranked,Phoenix,AZ
+309,Walden University,12075,Unranked,Minneapolis,MN
+310,Wilmington University,10940,Unranked,New Castle,DE
