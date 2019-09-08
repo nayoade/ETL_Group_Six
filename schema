@@ -1,0 +1,12 @@
+DROP TABLE school_data;
+
+CREATE TABLE school_data(
+ 	level_0 integer,
+ 	index integer,
+ 	School_Name varchar not null,
+ 	Starting_Salary numeric,
+ 	Mid_Career_Salary numeric,
+ 	Tuition varchar not null
+)
+
+SELECT * FROM school_data
