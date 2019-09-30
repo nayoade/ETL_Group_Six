@@ -1,0 +1,118 @@
+School_Name,Starting_Salary,Mid_Career_Salary,Tuition
+Arizona State University,47400.0,84100.0,27372.0
+Auburn University,45400.0,84700.0,29640.0
+Ball State University,39100.0,64500.0,25938.0
+Binghamton University,53600.0,95900.0,24403.0
+Boise State University,40800.0,69500.0,22642.0
+Bowling Green State University,39800.0,72100.0,18593.0
+Brown University,56200.0,109000.0,53419.0
+California State University,45175.0,81300.0,17694.5
+Carnegie Mellon University,61800.0,111000.0,53910.0
+Clemson University,48400.0,86000.0,35654.0
+Cleveland State University,43500.0,73100.0,13848.0
+Colorado School of Mines,58100.0,106000.0,37436.0
+Colorado State University,44800.0,79000.0,29140.0
+Columbia University,59400.0,107000.0,57208.0
+Cornell University,60300.0,110000.0,52853.0
+Dartmouth College,58000.0,134000.0,52950.0
+East Carolina University,40200.0,67500.0,23420.0
+Eastern Michigan University,40300.0,72100.0,11530.0
+Florida Atlantic University,42600.0,71100.0,21595.0
+Florida International University,43200.0,75500.0,18956.0
+Florida State University,42100.0,73000.0,21673.0
+George Mason University,47800.0,86900.0,34370.0
+Georgia Institute of Technology,58300.0,106000.0,33014.0
+Georgia State University,41800.0,74000.0,29432.0
+Harvard University,63400.0,124000.0,48949.0
+Idaho State University,44900.0,73400.0,21023.0
+Illinois Institute of Technology,56000.0,97800.0,45864.0
+Illinois State University,42000.0,73400.0,25168.0
+Indiana University,46300.0,84000.0,34845.0
+Iowa State University,45400.0,84600.0,22256.0
+Kansas State University,43300.0,79000.0,24775.0
+Kent State University,38700.0,62600.0,18376.0
+Lamar University,46500.0,79400.0,22561.0
+Louisiana State University,46900.0,87800.0,28051.0
+Massachusetts Institute of Technology,72200.0,126000.0,49892.0
+Michigan State University,46300.0,85300.0,39405.0
+Mississippi State University,44500.0,79300.0,22358.0
+Montana State University,42250.0,64050.0,23042.0
+New Mexico State University,44300.0,79500.0,22701.0
+North Carolina State University,47200.0,83300.0,27406.0
+North Dakota State University,45100.0,77800.0,20571.0
+Northern Illinois University,43600.0,80800.0,23817.0
+Ohio State University,44900.0,83700.0,29659.0
+Ohio University,42200.0,73400.0,21360.0
+Oklahoma State University,42800.0,80700.0,23776.0
+Oregon State University,45100.0,83300.0,29457.0
+Pennsylvania State University,49900.0,85700.0,33664.0
+Portland State University,42600.0,70900.0,21180.0
+Princeton University,66500.0,131000.0,47140.0
+Purdue University,51400.0,90500.0,28804.0
+Rensselaer Polytechnic Institute,61100.0,110000.0,52305.0
+Rochester Institute of Technology,48900.0,84600.0,40068.0
+Rutgers University,50300.0,91800.0,29751.5
+San Diego State University,46200.0,85200.0,19340.0
+San Francisco State University,47300.0,86400.0,19134.0
+South Dakota State University,41100.0,73500.0,11403.0
+Stevens Institute of Technology,60600.0,105000.0,50554.0
+Stony Brook University,49500.0,93000.0,26297.0
+Tennessee Technological University,46200.0,80000.0,26190.0
+Texas A&M University,49700.0,96100.0,24516.25
+University of Akron,41100.0,70300.0,21863.0
+University of Alabama,41200.0,78066.66666666667,24456.666666666668
+University of Alaska,45900.0,72600.0,23534.0
+University of Arizona,47500.0,86100.0,32449.0
+University of Arkansas,41650.0,78650.0,22052.5
+University of California,50775.0,96337.5,42390.333333333336
+University of Central Florida,42600.0,71700.0,22467.0
+University of Colorado,46600.0,91000.0,33144.0
+University of Connecticut,48000.0,88800.0,36948.0
+University of Delaware,45900.0,84500.0,32250.0
+University of Florida,47100.0,87900.0,28658.0
+University of Georgia,44100.0,86000.0,30392.0
+University of Hawaii,43800.0,76000.0,33764.0
+University of Houston,46000.0,79900.0,27337.0
+University of Idaho,44900.0,82000.0,23812.0
+University of Illinois,50200.0,88900.0,29830.0
+University of Iowa,44700.0,83900.0,28813.0
+University of Kansas,42400.0,81600.0,26592.0
+University of Kentucky,42800.0,78300.0,28046.0
+University of Louisiana,41100.0,76300.0,21727.5
+University of Maryland,52000.0,95000.0,25769.333333333332
+University of Massachusetts,45200.0,82675.0,31699.25
+University of Memphis,41400.0,69700.0,21413.0
+University of Michigan,52700.0,93000.0,47476.0
+University of Minnesota,46200.0,84200.0,26603.0
+University of Mississippi,41400.0,79700.0,23554.0
+University of Missouri,44775.0,77425.0,26610.666666666668
+University of Montana,37300.0,71900.0,24943.0
+University of Nebraska,43600.0,76750.0,22645.5
+University of Nevada,45850.0,77250.0,21642.5
+University of New Hampshire,41800.0,78300.0,32637.0
+University of New Mexico,41600.0,81600.0,22412.0
+University of North Carolina,41166.666666666664,73300.0,25755.333333333332
+University of North Dakota,44000.0,80600.0,21462.0
+University of Oklahoma,44700.0,82900.0,24443.0
+University of Oregon,42200.0,78400.0,34611.0
+University of Pennsylvania,60900.0,120000.0,53534.0
+University of Rhode Island,43900.0,85300.0,28874.0
+University of South Carolina,40000.0,71700.0,32362.0
+University of South Florida,41100.0,71100.0,17324.0
+University of Tennessee,43800.0,74600.0,31160.0
+University of Texas,45250.0,79375.0,26096.166666666668
+University of Toledo,43100.0,75900.0,18578.0
+University of Utah,45400.0,83200.0,26408.0
+University of Vermont,44800.0,82700.0,41356.0
+University of Virginia,52700.0,103000.0,46975.0
+University of Washington,48800.0,85300.0,35538.0
+University of Wisconsin,41872.72727272727,71018.18181818182,27316.5
+University of Wyoming,44500.0,78700.0,16827.0
+Utah State University,43800.0,78700.0,20726.0
+Virginia Commonwealth University,42000.0,68400.0,32942.0
+Washington State University,45300.0,84700.0,25817.0
+Wayne State University,42800.0,76100.0,28590.0
+West Virginia University,43100.0,78100.0,23616.0
+Western Michigan University,42300.0,73800.0,14699.0
+Worcester Polytechnic Institute,61000.0,114000.0,48628.0
+Yale University,59100.0,126000.0,51400.0
